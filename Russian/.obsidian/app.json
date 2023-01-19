@@ -1,0 +1,9 @@
+{
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ],
+  "vimMode": true,
+  "spellcheck": true,
+  "showLineNumber": true
+}
